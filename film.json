@@ -1,0 +1,65 @@
+[
+  {
+    "Titolo": "Inception",
+    "Durata": "148 min",
+    "Anno": 2010,
+    "Genere": "azione/fantascienza",
+    "Regia": "Christopher Nolan"
+  },
+
+  {
+    "Titolo": "Interstellar",
+    "Durata": "169 min",
+    "Anno": 2014,
+    "Genere": "fantascienza",
+    "Regia": "Christopher Nolan"
+  },
+
+  {
+    "Titolo": "Soul",
+    "Durata": "96 min",
+    "Anno": 2020,
+    "Genere": "animazione",
+    "Regia": "Pete Docter"
+  },
+
+  {
+    "Titolo": "Joker",
+    "Durata": "121 min",
+    "Anno": 2019,
+    "Genere": "drammatico",
+    "Regia": "Todd Phillips"
+  },
+
+  {
+    "Titolo": "La forma dell'acqua",
+    "Durata": "123 min",
+    "Anno": 2017,
+    "Genere": "sentimentale",
+    "Regia": "Guillermo Del Toro"
+  },
+
+  {
+    "Titolo": "Inside out",
+    "Durata": "91 min",
+    "Anno": 2015,
+    "Genere": "animazione",
+    "Regia": "Pete Docter"
+  },
+
+  {
+    "Titolo": "The Wolf of Wall Street",
+    "Durata": "180 min",
+    "Anno": 2013,
+    "Genere": "biografico",
+    "Regia": "Martin Scorsese"
+  },
+
+  {
+    "Titolo": "Dune",
+    "Durata": "155 min",
+    "Anno": 2021,
+    "Genere": "avventura/fantascienza",
+    "Regia": "Denis Villeneuve"
+  }
+]
